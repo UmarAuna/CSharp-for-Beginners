@@ -1,0 +1,6 @@
+/home/umarauna/Projects/MyApplication/MyApplication/bin/Debug/MyApplication.exe
+/home/umarauna/Projects/MyApplication/MyApplication/bin/Debug/MyApplication.pdb
+/home/umarauna/Projects/MyApplication/MyApplication/obj/x86/Debug/MyApplication.csprojAssemblyReference.cache
+/home/umarauna/Projects/MyApplication/MyApplication/obj/x86/Debug/MyApplication.csproj.CoreCompileInputs.cache
+/home/umarauna/Projects/MyApplication/MyApplication/obj/x86/Debug/MyApplication.exe
+/home/umarauna/Projects/MyApplication/MyApplication/obj/x86/Debug/MyApplication.pdb
